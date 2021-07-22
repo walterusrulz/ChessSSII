@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/wALTERUS/CLionProjects/ChessSSII/Position.cpp">
+			<Option target="ChessSSII"/>
+		</Unit>
+		<Unit filename="C:/Users/wALTERUS/CLionProjects/ChessSSII/Position.h">
+			<Option target="ChessSSII"/>
+		</Unit>
 		<Unit filename="C:/Users/wALTERUS/CLionProjects/ChessSSII/main.cpp">
 			<Option target="ChessSSII"/>
 		</Unit>

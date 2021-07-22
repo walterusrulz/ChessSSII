@@ -92,12 +92,12 @@ clean: CMakeFiles/ChessSSII.dir/clean
 CMakeFiles/ChessSSII.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ChessSSII.dir\build.make CMakeFiles/ChessSSII.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ChessSSII.dir\build.make CMakeFiles/ChessSSII.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\wALTERUS\CLionProjects\ChessSSII\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target ChessSSII"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\wALTERUS\CLionProjects\ChessSSII\cmake-build-debug\CMakeFiles --progress-num=1,2,3 "Built target ChessSSII"
 .PHONY : CMakeFiles/ChessSSII.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ChessSSII.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\wALTERUS\CLionProjects\ChessSSII\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\wALTERUS\CLionProjects\ChessSSII\cmake-build-debug\CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ChessSSII.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\wALTERUS\CLionProjects\ChessSSII\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/ChessSSII.dir/rule

@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/ChessSSII.dir/Position.cpp.obj"
   "CMakeFiles/ChessSSII.dir/main.cpp.obj"
   "ChessSSII.exe"
   "ChessSSII.exe.manifest"

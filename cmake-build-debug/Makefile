@@ -141,6 +141,33 @@ ChessSSII/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ChessSSII.dir\build.make CMakeFiles/ChessSSII.dir/build
 .PHONY : ChessSSII/fast
 
+Position.obj: Position.cpp.obj
+
+.PHONY : Position.obj
+
+# target to build an object file
+Position.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ChessSSII.dir\build.make CMakeFiles/ChessSSII.dir/Position.cpp.obj
+.PHONY : Position.cpp.obj
+
+Position.i: Position.cpp.i
+
+.PHONY : Position.i
+
+# target to preprocess a source file
+Position.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ChessSSII.dir\build.make CMakeFiles/ChessSSII.dir/Position.cpp.i
+.PHONY : Position.cpp.i
+
+Position.s: Position.cpp.s
+
+.PHONY : Position.s
+
+# target to generate assembly for a file
+Position.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ChessSSII.dir\build.make CMakeFiles/ChessSSII.dir/Position.cpp.s
+.PHONY : Position.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -177,6 +204,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... ChessSSII
+	@echo ... Position.obj
+	@echo ... Position.i
+	@echo ... Position.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
