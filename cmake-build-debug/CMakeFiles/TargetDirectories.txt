@@ -1,0 +1,3 @@
+C:/Users/wALTERUS/CLionProjects/ChessSSII/cmake-build-debug/CMakeFiles/ChessSSII.dir
+C:/Users/wALTERUS/CLionProjects/ChessSSII/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/wALTERUS/CLionProjects/ChessSSII/cmake-build-debug/CMakeFiles/rebuild_cache.dir
