@@ -10,5 +10,6 @@ CMakeFiles/ChessSSII.dir/Position.cpp.o: ../Position.h
 
 CMakeFiles/ChessSSII.dir/main.cpp.o: ../Action.h
 CMakeFiles/ChessSSII.dir/main.cpp.o: ../Position.h
+CMakeFiles/ChessSSII.dir/main.cpp.o: ../Utils.h
 CMakeFiles/ChessSSII.dir/main.cpp.o: ../main.cpp
 

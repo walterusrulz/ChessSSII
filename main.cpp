@@ -1,6 +1,7 @@
 #include <iostream>
 #include "Position.h"
 #include "Action.h"
+#include "Utils.h"
 using namespace std;
 int main() {
     Position test(1,1);
@@ -15,5 +16,6 @@ int main() {
     cout << string(50, '#') << endl;
     Action myAction(Position(0,0), Position(0,1));
     cout << myAction;
+    cout << "Size of: " << sizeof(PieceCode) << endl;
     return 0;
 }

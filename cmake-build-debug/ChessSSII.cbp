@@ -94,6 +94,9 @@
 		<Unit filename="/home/walterus/CLionProjects/ChessSSII/Position.h">
 			<Option target="ChessSSII"/>
 		</Unit>
+		<Unit filename="/home/walterus/CLionProjects/ChessSSII/Utils.h">
+			<Option target="ChessSSII"/>
+		</Unit>
 		<Unit filename="/home/walterus/CLionProjects/ChessSSII/main.cpp">
 			<Option target="ChessSSII"/>
 		</Unit>
