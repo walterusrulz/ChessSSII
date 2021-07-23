@@ -1,4 +1,4 @@
-C:\Users\wALTERUS\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.7628.27\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\wALTERUS\CLionProjects\ChessSSII
+/home/walterus/clion-2021.1.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/walterus/CLionProjects/ChessSSII
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/wALTERUS/CLionProjects/ChessSSII/cmake-build-debug
+-- Build files have been written to: /home/walterus/CLionProjects/ChessSSII/cmake-build-debug
