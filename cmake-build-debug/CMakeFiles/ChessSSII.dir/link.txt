@@ -1,1 +1,3 @@
-/usr/bin/c++ -g CMakeFiles/ChessSSII.dir/main.cpp.o CMakeFiles/ChessSSII.dir/Position.cpp.o CMakeFiles/ChessSSII.dir/Action.cpp.o -o ChessSSII 
+C:\Users\wALTERUS\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.7628.27\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\ChessSSII.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\ChessSSII.dir/objects.a @CMakeFiles\ChessSSII.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\ChessSSII.dir/objects.a -Wl,--no-whole-archive -o ChessSSII.exe -Wl,--out-implib,libChessSSII.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ChessSSII.dir\linklibs.rsp

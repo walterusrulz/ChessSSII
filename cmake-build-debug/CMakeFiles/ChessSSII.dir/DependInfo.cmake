@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/walterus/CLionProjects/ChessSSII/Action.cpp" "/home/walterus/CLionProjects/ChessSSII/cmake-build-debug/CMakeFiles/ChessSSII.dir/Action.cpp.o"
-  "/home/walterus/CLionProjects/ChessSSII/Position.cpp" "/home/walterus/CLionProjects/ChessSSII/cmake-build-debug/CMakeFiles/ChessSSII.dir/Position.cpp.o"
-  "/home/walterus/CLionProjects/ChessSSII/main.cpp" "/home/walterus/CLionProjects/ChessSSII/cmake-build-debug/CMakeFiles/ChessSSII.dir/main.cpp.o"
+  "C:/Users/wALTERUS/CLionProjects/ChessSSII/Action.cpp" "C:/Users/wALTERUS/CLionProjects/ChessSSII/cmake-build-debug/CMakeFiles/ChessSSII.dir/Action.cpp.obj"
+  "C:/Users/wALTERUS/CLionProjects/ChessSSII/Position.cpp" "C:/Users/wALTERUS/CLionProjects/ChessSSII/cmake-build-debug/CMakeFiles/ChessSSII.dir/Position.cpp.obj"
+  "C:/Users/wALTERUS/CLionProjects/ChessSSII/main.cpp" "C:/Users/wALTERUS/CLionProjects/ChessSSII/cmake-build-debug/CMakeFiles/ChessSSII.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

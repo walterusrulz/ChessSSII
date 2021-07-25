@@ -14,8 +14,9 @@ int main() {
     cout << "Objects are equal? 0=NO / 1=YES---->" << test.Compare(emptyCons) << endl;
     cout << "Objects are equal? 0=NO / 1=YES---->" << test.Compare(test_eq) << endl;
     cout << string(50, '#') << endl;
-    Action myAction(Position(0,0), Position(0,1));
-    cout << myAction;
-    cout << "Size of: " << sizeof(PieceCode) << endl;
+    Action myAction(Position(0,0), Position(0,2));
+    Action secAction(Position(), Position(0,1));
+
+    cout << "Actions:" << endl << myAction << secAction <<"are equal? 0=NO / 1=YES---->" << (myAction==secAction) << endl;
     return 0;
 }

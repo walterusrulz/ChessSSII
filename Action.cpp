@@ -22,7 +22,14 @@ int Action::getCost(){
     return 1 + std::max(auxRows, auxCols);
 }
 std::ostream & operator << (std::ostream &str,  const Action &act) {
-    str << "Action{(" << act.m_initPos.getRow() << "," << act.m_initPos.getCol() << "),(";
+    str << "_Action{(" << act.m_initPos.getRow() << "," << act.m_initPos.getCol() << "),(";
     str << act.m_finalPos.getRow() << "," << act.m_finalPos.getCol() << ")}" << std::endl;
     return str;
+}
+int  operator == (const Action &act_left, const Action &act_right){
+    if((act_left.m_initPos.Compare(act_right.m_initPos)) && (act_left.m_finalPos.Compare(act_right.m_finalPos))){
+        return 1;
+    }else{
+        return 0;
+    }
 }

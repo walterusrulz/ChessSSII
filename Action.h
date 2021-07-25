@@ -21,7 +21,8 @@ public:
     void setMFinalPos(const Position &mFinalPos) ;
     int getCost();
     friend std::ostream & operator << (std::ostream &str,  const Action &act);
+    friend int  operator == (const Action &act_left, const Action &act_right);
 };
 std::ostream & operator << (std::ostream &str,  const Action &act);
-
+int  operator == (const Action &act_left, const Action &act_right);
 #endif //CHESSSSII_ACTION_H
